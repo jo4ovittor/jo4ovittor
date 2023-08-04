@@ -1,8 +1,8 @@
 
-## Olá, eu sou o João Vitor 🔰
-### Bem vindo ao meu perfil ^^
-#### Sobre mim
->Nasci em Piracicaba, localizada no interior do estado de São Paulo e desde pequeno sempre fui envolvido com games em geral me levando, anos mais tarde, me interessar pela área da Tecnologia. Atualmente estou em transição de carreira buscando conhecimentos para área de Desenvolvimento Web (Front-end) através de conteúdo online como cursos e dicas de outros desenvolvedores em diversas plataformas presentes na internet.
+## Hello, my name is João Vitor 🔰
+### Welcome to my profile ^^
+#### About me
+>I was born in Piracicaba, in the interior of the state of São Paulo, and from a young age I was involved with games in general, which years later led me to become interested in the field of technology. Currently, I am in a career transition, seeking knowledge in the field of web development (front-end) through online content such as courses and tips from other developers on different platforms on the Internet.
 
 <br>
 
@@ -11,7 +11,7 @@
 
 <br>
 
-### Tecnologias
+### Technologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,6 +24,6 @@
 
 <br>
 
-### Meus Contatos
+### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vittor-barbossa/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jv.barbossa?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
