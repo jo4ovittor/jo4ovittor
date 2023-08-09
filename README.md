@@ -6,8 +6,8 @@
 
 <br>
 
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=jo4ovittor&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo4ovittor&hide_progress=true)
+![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=jo4ovittor&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo4ovittor&layout=compact)
 
 <br>
 
